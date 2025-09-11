@@ -1,0 +1,10 @@
+x y
+0 0
+1 0
+0 1
+
+After using ios::app
+x y
+0 0
+1 0
+0 1
