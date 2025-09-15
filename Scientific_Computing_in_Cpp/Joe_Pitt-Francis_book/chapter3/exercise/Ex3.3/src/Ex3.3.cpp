@@ -49,6 +49,7 @@ int main(int argc, char* argv[]){
     plt::title("Forward Euler Method vs Analytical Solution");
     plt::legend();
     plt::grid(true);
+    plt::save("Implicit Euler Solution.png");
     plt::show();
     
     // Calculate and display error
